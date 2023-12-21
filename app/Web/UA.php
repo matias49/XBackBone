@@ -17,8 +17,9 @@ class UA
         'WhatsApp/' => false,
         'Slack' => false,
         'Twitterbot/' => false,
-        'discord' => true,
         // discord image bot
+        'discord' => true,
+        'Mastodon' => true,
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 11.6; rv:92.0) Gecko/20100101 Firefox/92.0' => true,
         'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:38.0) Gecko/20100101 Firefox/38.0' => true,
     ];
